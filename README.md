@@ -7,8 +7,8 @@ Quickstart tutorial for MLflow with scikit-learn
 - Run the Jupyter notebook: [Jupyter notebook](https://github.com/Magnushhoie/mlflow_sklearn_tutorial/blob/main/MLFlow_tutorial.ipynb)
 
 ## Overview:
-1. Toy machine-learning model (ML) example
+1. Toy machine-learning model example
 2. Minimal MLflow example
-3. Log individual ML model w/ MLflow
-4. Automatically run set of ML models, later check w/ MLflow
+3. Log individual machine-learning models w/ MLflow
+4. Automatically run set of machine-learning models, later check w/ MLflow
 5. Load trained models from MLflow archive
